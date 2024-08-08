@@ -3,6 +3,19 @@ entries:
   nginx-chart:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2024-08-08T15:15:14.215081691Z"
+    description: A Helm chart for Kubernetes
+    digest: 3d82a5a612f8d0384fdcc4bfd86630fdda800995875dc58d9ea6fd9c4bcac9a9
+    maintainers:
+    - email: info@tractus.com.tr
+      name: Tractus
+    name: nginx-chart
+    type: application
+    urls:
+    - https://github.com/tractus-technology/helm-installer/releases/download/nginx-chart-0.1.1/nginx-chart-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2024-08-08T14:48:35.546224959Z"
     description: A Helm chart for Kubernetes
     digest: 227079158600bd9787496f772b00171de9a64cdb6d053801547bcfda5ef45d10
@@ -14,4 +27,4 @@ entries:
     urls:
     - https://github.com/OmerTrc/helm-installer/releases/download/nginx-chart-0.1.0/nginx-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2024-08-08T14:48:35.546231131Z"
+generated: "2024-08-08T15:15:14.215093453Z"
